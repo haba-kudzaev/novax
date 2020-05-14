@@ -1,0 +1,1 @@
+- [git_release_naming.md](https://github.com/rx1310/novax/blob/master/docs/git_release_naming.md) - информация о нейминге релизов на Github;
